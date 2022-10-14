@@ -63,7 +63,7 @@
     "three": ">=0.141"
   },
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build && tsc",
     "lint": "eslint src/**/*.{ts,tsx}",
     "test": "echo no tests yet"
